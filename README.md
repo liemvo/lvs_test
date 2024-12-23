@@ -1,5 +1,8 @@
 # Simple Security System Application
 
+1. On the Macbook or OSX, program and test are working file. 
+2. For window machine, all the command line should run in bash. There is an issue with one unit test (`test_load_event_log`) on window but it still run coverage report. I wan't to skip to fix for Window issue atm. 
+
 ## Config python virtual environment
 
 ### Create environment
