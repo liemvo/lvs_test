@@ -29,6 +29,8 @@ Run command `pip install -r requirements.txt` to install all dependencies for pr
 3. Invoke application
     `python main.py`
 
+## How to run and see the unit test
+`pytest`
 
 
 ## How to run test coverage

@@ -3,3 +3,6 @@ logging
 
 #For test coverage
 coverage
+
+#Simple tests
+pytest

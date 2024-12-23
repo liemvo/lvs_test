@@ -5,3 +5,4 @@ logs
 images
 system_log.txt
 htmlcov
+.pytest_cache
